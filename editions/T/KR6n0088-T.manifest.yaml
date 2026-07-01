@@ -1,0 +1,294 @@
+canonical_identifier: bkk:krp/KR6n0088/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0088/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 究竟一乘寶性論
+  identifiers:
+    krp: KR6n0088
+    cbeta: T31n1611
+    cbeta_old_id: T31n1611
+    authorityid: CA0001872
+    json_key: T1611
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1611.xml
+    old_id: T31n1611
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0088_000-T.yaml, hash: 'sha256:a7718063007399ed66e4ced1514bc28da769b1f7044d750a228e0ba176d580d2'}
+  - {seq: 1, filename: KR6n0088_001-T.yaml, hash: 'sha256:1a6a88555b266fffa94c55dd17ea1e6ba9f3fd22273f666d9d489f30083ea7ac'}
+  - {seq: 2, filename: KR6n0088_002-T.yaml, hash: 'sha256:2d667857cdde66639b252801932c53997000c105ca1f9c91b50195da09cb2e69'}
+  - {seq: 3, filename: KR6n0088_003-T.yaml, hash: 'sha256:354866755c4ec6c1bf6c7f8c66d570253f4d9c0544bd2de510044c1ec0966b68'}
+  - {seq: 4, filename: KR6n0088_004-T.yaml, hash: 'sha256:c4815318831995779af2fd1c7ccf6e6d4398b80dc9f88d05fe292707715c78c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0088_000-T.markers.yaml, hash: 'sha256:14bbcaaf5cba460101af71fe7bf009ff1fe4c785c885f7f8b5a2f8402ef604f1'}
+  - {seq: 1, role: markers, filename: assets/KR6n0088_001-T.markers.yaml, hash: 'sha256:d5860dc8f5494d51cf322daf217e4d473178a0d643ade77e024f26aeef92569a'}
+  - {seq: 2, role: markers, filename: assets/KR6n0088_002-T.markers.yaml, hash: 'sha256:e96bab53bd11813cd20dc40fd2fa22f9580cd7b2d3b053ba735cfec7464bc56d'}
+  - {seq: 3, role: markers, filename: assets/KR6n0088_003-T.markers.yaml, hash: 'sha256:88e227d65324d5c02b6a7e82f5c80623dfd11c568d6cf159142faa61a62399f9'}
+  - {seq: 4, role: markers, filename: assets/KR6n0088_004-T.markers.yaml, hash: 'sha256:68ece10a37de75f6e2a78a030ef543886a9d561c333d9c2fdb19129652ca9ca0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9063
+  label: 究竟一乘寶性論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 1 教化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-2
+    span:
+    - body
+    - 377
+    - 377
+  label: 2 佛寶品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-3
+    span:
+    - body
+    - 469
+    - 469
+  label: 3 法寶品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-4
+    span:
+    - body
+    - 561
+    - 561
+  label: 4 僧寶品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-5
+    span:
+    - body
+    - 707
+    - 707
+  label: 5 一切眾生有如來藏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-6
+    span:
+    - body
+    - 1276
+    - 1276
+  label: 6 無量煩惱所纏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-7
+    span:
+    - body
+    - 2804
+    - 2804
+  label: 7 為何義說品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-8
+    span:
+    - body
+    - 2926
+    - 2926
+  label: 8 身轉清淨成菩提品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-9
+    span:
+    - body
+    - 3529
+    - 3529
+  label: 9 如來功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-10
+    span:
+    - body
+    - 4372
+    - 4372
+  label: 10 自然不休息佛業品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-11
+    span:
+    - body
+    - 6003
+    - 6003
+  label: 11 校量信功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0088_T_001-mulu-12
+    span:
+    - body
+    - 6853
+    - 6853
+  label: 1 〔教化品〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0088_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7426
+  label: 究竟一乘寶性論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0088_T_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 2 佛寶品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0088_T_002-mulu-2
+    span:
+    - body
+    - 1354
+    - 1354
+  label: 3 法寶品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0088_T_002-mulu-3
+    span:
+    - body
+    - 2719
+    - 2719
+  label: 4 僧寶品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0088_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 11611
+  label: 究竟一乘寶性論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0088_T_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 5 一切眾生有如來藏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0088_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 11789
+  label: 究竟一乘寶性論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0088_T_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 6 無量煩惱所纏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0088_T_004-mulu-2
+    span:
+    - body
+    - 4392
+    - 4392
+  label: 7 為何義說品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0088_T_004-mulu-3
+    span:
+    - body
+    - 4784
+    - 4784
+  label: 8 身轉清淨成菩提品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0088_T_004-mulu-4
+    span:
+    - body
+    - 7785
+    - 7785
+  label: 9 如來功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0088_T_004-mulu-5
+    span:
+    - body
+    - 9374
+    - 9374
+  label: 10 自然不休息佛業品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0088_T_004-mulu-6
+    span:
+    - body
+    - 10438
+    - 10438
+  label: 11 挍量信功德品
+  type: mulu
+  level: 1
+hash: sha256:d42287d5f5522687d45aa58383b0c97bbfa375abe8c444c8edbe8839308582ae
